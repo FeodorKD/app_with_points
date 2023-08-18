@@ -1,0 +1,29 @@
+.form {
+    max-height: 60vh;
+    max-width: 60vw;
+    grid-template-rows: 1fr 1fr 1fr 0.5fr;
+    display: grid;
+    grid-gap: 15px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.name {
+    grid-template-rows: 30px;
+    display: grid;
+}
+.coordinates {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 30px;
+    display: grid;
+    grid-column-gap: 15px;
+}
+.labels {
+    grid-template-rows: 0.5fr 1.5fr;
+    display: grid;
+    grid-gap: 10px;
+
+}
+
+.error {
+    color: red;
+}

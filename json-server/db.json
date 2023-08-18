@@ -1,0 +1,126 @@
+{
+  "points": [
+    {
+      "id": 1,
+      "name": "Entity1",
+      "coordinate": [
+        -42,
+        42
+      ],
+      "labels": [
+        "labelA",
+        "labelB",
+        "labelE",
+        "asfasfas"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Entity2",
+      "coordinate": [
+        38,
+        4
+      ],
+      "labels": [
+        "labelC",
+        "labelD",
+        "awfasdfffffffa"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Entity3",
+      "coordinate": [
+        42,
+        15
+      ],
+      "labels": [
+        "labelA",
+        "labelE"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Entity4",
+      "coordinate": [
+        -34,
+        -15
+      ],
+      "labels": [
+        "labelB",
+        "labelD"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Entity5",
+      "coordinate": [
+        22,
+        -76
+      ],
+      "labels": [
+        "labelA",
+        "labelC",
+        "labelE"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Entity6",
+      "coordinate": [
+        233,
+        -23
+      ],
+      "labels": [
+        "labelD"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Entity7",
+      "coordinate": [
+        -154,
+        53
+      ],
+      "labels": [
+        "labelB",
+        "labelE"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Entity8",
+      "coordinate": [
+        7,
+        -12
+      ],
+      "labels": [
+        "labelC"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Entity9",
+      "coordinate": [
+        112,
+        10
+      ],
+      "labels": [
+        "labelA",
+        "labelD"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Entity10",
+      "coordinate": [
+        -80,
+        80
+      ],
+      "labels": [
+        "labelB",
+        "labelE"
+      ]
+    }
+  ]
+}

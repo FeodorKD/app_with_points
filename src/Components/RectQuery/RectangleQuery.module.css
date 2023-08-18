@@ -1,0 +1,39 @@
+.query{
+    grid-template-rows: 1fr 3fr;
+    display: grid;
+    grid-gap: 10px;
+    justify-items: center;
+}
+
+.input{
+    grid-template-columns: 30% 30%;
+    grid-template-rows: 1fr 1fr;
+    display: grid;
+    grid-gap: 7px;
+
+}
+
+.label{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.button{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.points{
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    grid-gap: 10px;
+    justify-items: center;
+    align-items: center;
+}
+
+.result{
+    grid-template-columns: 1fr;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}

@@ -1,0 +1,12 @@
+.container {
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+    color: black;
+}

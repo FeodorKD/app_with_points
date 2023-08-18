@@ -1,0 +1,33 @@
+.item {
+    max-height: 70px;
+    margin: 5vh 7vw;
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+    align-items: center;
+}
+
+.id {
+    font-size: 20px;
+    color: black;
+}
+
+.name {
+    font-size: 16px;
+    color: black;
+}
+
+.info {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.labels {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
